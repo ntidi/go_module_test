@@ -1,4 +1,4 @@
-package exp
+package experience
 
 var jobs []map[string]string
 
